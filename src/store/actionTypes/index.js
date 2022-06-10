@@ -1,0 +1,1 @@
+export let SIMPLE_ACTION;
